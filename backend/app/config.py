@@ -25,6 +25,6 @@ MODEL_NAME = os.getenv("MODEL_NAME", "xlm-roberta-base")
 USE_TRANSFORMERS = os.getenv("USE_TRANSFORMERS", "true").lower() == "true"
 
 # App Info
-PROJECT_NAME = "Lang Detect AI"
+PROJECT_NAME = "AURA"
 VERSION = "1.0.0"
 API_PREFIX = "/api"

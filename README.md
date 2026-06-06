@@ -1,10 +1,10 @@
-# Lang Detect AI
+# AURA - AI-powered Understanding of Regional Abuse
 
-An explainable regional language safety intelligence platform for detecting hate speech, abuse, and toxic content in code-mixed and Romanized Indian regional languages.
+An explainable multilingual NLP platform for detecting hate speech, cyberbullying, caste-based abuse, and harmful narratives in Tamil, English, and Telugu social media content using code-mixed and Romanized Indian regional languages.
 
 ## Overview
 
-**Lang Detect AI** bridges the gap in content moderation for Indian regional languages written in Romanized (transliterated) form. It handles **Hinglish**, **Tanglish**, and **Tenglish** - languages that standard moderation tools struggle to process.
+**AURA** bridges the gap in content moderation for Indian regional languages written in Romanized (transliterated) form. It handles **Hinglish**, **Tanglish**, and **Tenglish** - languages that standard moderation tools struggle to process.
 
 ### Key Features
 
